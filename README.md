@@ -19,7 +19,7 @@ La aplicación debe ser entregada con esta lista de prioridades.
 
 ## Solución
 Creamos una aplicación con la mayoría de los requerimientos logrados. El cliente puede agregar un perfil con sus datos básicos, eventos e intereses además de especificar los días previos a la notificación y también puede ver la lista de perfiles y eliminarlos. 
-Los invitamos a que conozcan la nueva funcionalidad de la Falabella.com
+Los invitamos a que conozcan la nueva funcionalidad de Falabella.com
 
 [Falabella.com](https://desafio-falabella-talent-fest.herokuapp.com/)
 
