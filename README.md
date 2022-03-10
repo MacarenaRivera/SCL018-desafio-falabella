@@ -16,3 +16,17 @@ La aplicación debe ser entregada con esta lista de prioridades.
 4. Eliminar Perfil.   **_Importancia Media_**
 5. Editar Perfil.  **_deseable_**
 6. Agregar nuevo Evento u otro Parentesco.  **_deseable_**
+
+## Solución
+Creamos una aplicación con la mayoría de los requerimientos logrados. El cliente puede agregar un perfil con sus datos básicos, eventos e intereses además de especificar los días previos a la notificación y también puede ver la lista de perfiles y eliminarlos. 
+Los invitamos a que conozcan la nueva funcionalidad de la Falabella.com
+
+[Falabella.com](https://desafio-falabella-talent-fest.herokuapp.com/)
+
+## Squad Falabella/Laboratoria
+* Maria Fernanda Ramos
+* Andrea Carrasco
+* Karina Oyarzun
+* Macarena Rivera
+* PO Falabella: Leandro León
+
