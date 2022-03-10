@@ -10,9 +10,9 @@ Al añadir a un perfil de Persona favorita el usuario debe poder agregar su nomb
 ## Requerimientos
 La aplicación debe ser entregada con esta lista de prioridades.
 
-1. Construir Layout con formato f.com. *Importancia crítica*
-2. Agregar perfil. *Importancia crítica*
-3. Listar Perfiles. *Importancia Alta*
-4. Eliminar Perfil. *Importancia Media*
-5. Editar Perfil. *deseable*
-6. Agregar nuevo Evento u otro Parentesco. *deseable*
+1. Construir Layout con formato f.com.  **_Importancia crítica_**
+2. Agregar perfil.   **_Importancia crítica_**
+3. Listar Perfiles.  **_Importancia Alta_**
+4. Eliminar Perfil.   **_Importancia Media_**
+5. Editar Perfil.  **_deseable_**
+6. Agregar nuevo Evento u otro Parentesco.  **_deseable_**
