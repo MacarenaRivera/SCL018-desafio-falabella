@@ -1,7 +1,7 @@
 # SCL018 Desafío Falabella
 
 ## 🌎Antecedentes de la empresa
-Falabella.com es la plataforma de retail más grande de Latinoamérica, con presencia a través de grandes tiendas, tanto físicas como online, donde se comercializa productos para uso personal y del hogar, contando con fuertes marcas propias, marcas exclusivas internacionales, además de marcas locales y de segunda generación.
+Falabella.com es la plataforma de Marketplace más grande de Latinoamérica, con presencia a través de grandes tiendas, tanto físicas como online, donde se comercializa productos para uso personal y del hogar, contando con fuertes marcas propias, marcas exclusivas internacionales, además de marcas locales y de segunda generación.
 
 ## 🚀El Desafío
 En la app de Falabella-com, crear una nueva sección de personalización dentro de “Mi Cuenta” donde el usuario tenga la oportunidad de crear “Mis personas favoritas” con diferentes tipos de perfiles con gustos e intereses para cada uno.
@@ -23,7 +23,7 @@ Los invitamos a que conozcan la nueva funcionalidad de Falabella.com
 
 [Falabella.com](https://desafio-falabella-talent-fest.herokuapp.com/)
 
-## Squad Falabella/Laboratoria
+## Squad 5 Falabella/Laboratoria
 * Maria Fernanda Ramos
 * Andrea Carrasco
 * Karina Oyarzun
